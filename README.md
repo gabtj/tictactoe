@@ -1,2 +1,2 @@
 # tictactoe
-Two player TicTacToe created using Python
+Two player TicTacToe with replay functionality created using Python
